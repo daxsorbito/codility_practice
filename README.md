@@ -1,2 +1,2 @@
-# codity_practice
-My answer to codity lessons.
+# codility_practice
+My answer to codility lessons.
